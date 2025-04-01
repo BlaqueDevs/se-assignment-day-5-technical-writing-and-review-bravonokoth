@@ -13,3 +13,25 @@
 ## 10. What are some best practices for creating effective headings and subheadings?
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
 ## 12. How can you succinctly convey the purpose and key features of a product?
+
+
+
+# SE-DAY5-Technical-Writing
+
+This repository contains my submission for the "Technical Writing and Review" assignment (Day 5) from BlaqueDevs. The project focuses on answering questions about effective technical communication.
+
+## Assignment Description
+The assignment explores strategies for writing clear, audience-appropriate technical documentation. It includes 12 questions covering audience analysis, plain language, visuals, and README best practices.
+
+## Progress
+- Completed answers to all 12 questions in `answers.md`.
+- Submitted work on April 1, 2025.
+
+## Files
+- **`README.md`**: Overview of the assignment and progress.
+- **`answers.md`**: Detailed responses to the technical writing questions.
+
+## How to View
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/BlaqueDevs/se-assignment-day-5-technical-writing-and-review-bravonokoth.git
