@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/zsAR-pyY)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18960938&assignment_repo_type=AssignmentRepo)
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 ## 2. What are some strategies to tailor your content to different audience types?
@@ -11,3 +13,25 @@
 ## 10. What are some best practices for creating effective headings and subheadings?
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
 ## 12. How can you succinctly convey the purpose and key features of a product?
+
+
+
+# SE-DAY5-Technical-Writing
+
+This repository contains my submission for the "Technical Writing and Review" assignment (Day 5) from BlaqueDevs. The project focuses on answering questions about effective technical communication.
+
+## Assignment Description
+The assignment explores strategies for writing clear, audience-appropriate technical documentation. It includes 12 questions covering audience analysis, plain language, visuals, and README best practices.
+
+## Progress
+- Completed answers to all 12 questions in `answers.md`.
+- Submitted work on April 1, 2025.
+
+## Files
+- **`README.md`**: Overview of the assignment and progress.
+- **`answers.md`**: Detailed responses to the technical writing questions.
+
+## How to View
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/BlaqueDevs/se-assignment-day-5-technical-writing-and-review-bravonokoth.git
